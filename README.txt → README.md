@@ -99,12 +99,4 @@ To build a modular Python application that:
 
 ---
 
-## 👨‍💻 Author
-
-* Tushar Rana
-
----
-
-## 📄 License
-
 This project is for educational purposes.
