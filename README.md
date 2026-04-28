@@ -1,6 +1,8 @@
-# 📒 Modular Contact Book (Python CLI)
+# 📒 Shelve Contact Manager (Python CLI)
 
-A simple command-line Contact Book built using Python. This project demonstrates modular programming, persistent storage using `shelve`, and exporting contact data as a ZIP archive.
+A simple command-line Contact Manager built using Python. This project demonstrates modular programming, persistent storage using `shelve`, and exporting contact data as a ZIP archive.
+
+📌 A beginner-friendly Python CLI project for managing contacts using persistent storage.
 
 ---
 
@@ -26,7 +28,7 @@ A simple command-line Contact Book built using Python. This project demonstrates
 ## 📁 Project Structure
 
 ```
-modular-contact-book/
+shelve-contact-manager/
 │
 ├── main.py        # Entry point
 ├── ui.py          # User interface (menu)
@@ -43,13 +45,13 @@ modular-contact-book/
 1. Clone the repository:
 
 ```
-git clone https://github.com/ertushar-ai/new.git
+git clone https://github.com/ertushar-ai/shelve-contact-manager.git
 ```
 
 2. Open the folder:
 
 ```
-cd new
+cd shelve-contact-manager
 ```
 
 3. Run the program:
